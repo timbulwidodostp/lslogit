@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'lslogit': Estimate mixed logit labor supply models Use lslogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f llslogit.do
+f llslogit.mlib
+f lslogit.ado
+f lslogit.sthlp
+f lslogit_p.ado
