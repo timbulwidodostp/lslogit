@@ -3,6 +3,8 @@ Estimate mixed logit labor supply models Use lslogit With STATA 18
 
 Fitting complex mixed logit models with particular focus on labor supply estimation Use lslogit With STATA 18
 
+https://www.youtube.com/watch?v=0cxBw2HCye0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
